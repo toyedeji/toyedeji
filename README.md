@@ -21,6 +21,7 @@ DevSecOps & Cloud Security Consultant · AI Security Researcher
 - [local-llm-benchmark](https://github.com/toyedeji/local-llm-benchmark) — Empirical LLM evaluation on CPU-only hardware: 5 models, 13 hours of testing
 
 - [icesoak](https://github.com/toyedeji/icesoak) — Cold plunge studio directory (Next.js / Netlify)
+- [fpna-analyst-demo](https://github.com/toyedeji/fpna-analyst-demo) — AI-powered FP&A analyst demo with DuckDB warehouse, 7 analytical layers, and Claude API narration
 
 ## Stack
 
