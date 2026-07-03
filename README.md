@@ -1,6 +1,6 @@
 # Tunde Oyedeji
 
-DevSecOps & Cloud Security Consultant · AI Security Researcher
+DevSecOps & Cloud Security Consultant · AI Solutions Builder
 
 ## What I Build
 
