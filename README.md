@@ -22,6 +22,7 @@ DevSecOps & Cloud Security Consultant · AI Solutions Builder
 
 - [icesoak](https://github.com/toyedeji/icesoak) — Cold plunge studio directory (Next.js / Netlify)
 - [fpna-analyst-demo](https://github.com/toyedeji/fpna-analyst-demo) — AI-powered FP&A analyst demo with DuckDB warehouse, 7 analytical layers, and Claude API narration
+- [testlab-grafana-dashboards](https://github.com/toyedeji/testlab-grafana-dashboards) — Prometheus + Grafana monitoring stack with 6 dashboards and Alertmanager ntfy alerting
 
 ## Stack
 
